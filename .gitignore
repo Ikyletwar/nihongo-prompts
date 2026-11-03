@@ -1,0 +1,14 @@
+# Berkas sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependensi & build (tidak dipakai, jaga-jaga)
+node_modules/
+dist/
