@@ -12,3 +12,8 @@ desktop.ini
 # Dependensi & build (tidak dipakai, jaga-jaga)
 node_modules/
 dist/
+__pycache__/
+*.pyc
+
+# Output paket prompt
+*.zip
